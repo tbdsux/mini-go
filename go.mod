@@ -1,3 +1,3 @@
-module github.com/TheBoringDude/scuffed-go
+module github.com/TheBoringDude/mini-go
 
-go 1.15
+go 1.18
