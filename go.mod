@@ -1,3 +1,3 @@
-module github.com/TheBoringDude/mini-go
+module github.com/tbdsux/mini-go
 
 go 1.18

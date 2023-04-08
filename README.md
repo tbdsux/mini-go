@@ -5,7 +5,7 @@ Simple / mini / trivial functions to aid and help in go programming
 ## Install
 
 ```sh
-go get -u github.com/TheBoringDude/mini-go
+go get -u github.com/tbdsux/mini-go
 ```
 
 ## Packages
